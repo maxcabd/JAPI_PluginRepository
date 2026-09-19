@@ -1,5 +1,5 @@
 {
-   "manifest_version": 7,
+   "manifest_version": 8,
    "games": {
       "ASBR": [
          {
@@ -54,6 +54,17 @@
             "description": "Skips the intro screens!",
             "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/SkipIntro.dll",
             "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_SkipIntro",
+            "lazy_load": false,
+            "dependencies": []
+         },
+         {
+            "name": "ASBR Hitbox Viewer",
+            "guid": "HitboxViewer",
+            "author": "Debura",
+            "version": "0.4.1",
+            "description": "Displays collision outlines with Practice Settings toggles for hitboxes, fighter visibility, and Stand visibility. F4 toggles the viewer.",
+            "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/HitboxViewer.dll",
+            "source_url": "",
             "lazy_load": false,
             "dependencies": []
          }
