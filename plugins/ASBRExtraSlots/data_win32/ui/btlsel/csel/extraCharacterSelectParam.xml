@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtraCharacterSelectParam version="2" layout="bottom-custom-row">
+  <Slots>
+    <!-- Example: stock Jonathan in bottom-row anchor 62; uses the included expanded CSEL layout. -->
+    <Slot id="example_jonathan" characterId="0x11" index="62">
+      <Portrait source="1jnt01" />
+    </Slot>
+  </Slots>
+</ExtraCharacterSelectParam>
