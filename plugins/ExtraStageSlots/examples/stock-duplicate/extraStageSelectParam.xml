@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtraStageSelectParam version="1">
+  <Slots>
+    <Slot id="extra_stage_01" sourceStage="6knd" />
+  </Slots>
+</ExtraStageSelectParam>

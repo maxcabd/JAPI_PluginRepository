@@ -1,5 +1,5 @@
 {
-   "manifest_version": 7,
+   "manifest_version": 8,
    "games": {
       "ASBR": [
          {
@@ -54,6 +54,17 @@
             "description": "Skips the intro screens!",
             "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/SkipIntro.dll",
             "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_SkipIntro",
+            "lazy_load": false,
+            "dependencies": []
+         },
+         {
+            "name": "Extra Stage Slots",
+            "author": "Debura",
+            "guid": "ExtraStageSlots",
+            "version": "1.0.0",
+            "description": "XML-configured stage slots, independent stages, titles and descriptions",
+            "url": "https://github.com/maxcabd/JAPI_PluginRepository/raw/refs/heads/main/plugins/ExtraStageSlots.dll",
+            "source_url": "",
             "lazy_load": false,
             "dependencies": []
          }
